@@ -20,12 +20,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EditPatientActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AddPatientActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="false" />
     </application>
